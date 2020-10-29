@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c67a55a-0a5c-4159-a3cb-4ce52f5a1de6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Monetary policy/s&amp;p voting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S&amp;P_voting_model/back testing/backtest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S&amp;P_voting_model/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S&amp;P_voting_model/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sector correlation model/data/.~lock.Daily_Treasury_Real_Yield_Curve_Rates.csv#" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sector correlation model/data/Data_pulling_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sector correlation model/data/data_by_exchange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sector correlation model/data/sector_data_grabber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sector correlation model/data/tickersMETA/TSX_TSXV_energy_listings.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sector correlation model/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../police/data/crime_data_puller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../police/data/table-1.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../police/data/table-5-2018.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../police/data/table-77.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../police/police graphing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../police/weighting.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GlobalConfig.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../GlobalConfig.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../core/Models/pmi/PMIModel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../core/Models/pmi/PMIModel.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1jX8omuBjDUz7730s3pOTADZkuo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="data_puller" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="steel_prices" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_puller.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.data_puller" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c67a55a-0a5c-4159-a3cb-4ce52f5a1de6" name="Default Changelist" comment="" />
+      <created>1603939252679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603939252679</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
